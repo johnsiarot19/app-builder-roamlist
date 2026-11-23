@@ -1,0 +1,18 @@
+{
+  "name": "app-builder-roamlist",
+  "version": "1.0.0",
+  "description": "A web application for creating and managing a travel wishlist.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "travel",
+    "wishlist"
+  ],
+  "author": "Datadog Customer Education and Training Team",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
